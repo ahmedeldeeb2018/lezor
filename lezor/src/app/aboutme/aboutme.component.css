@@ -1,0 +1,20 @@
+
+.about-left h2{
+    letter-spacing: 2.9px;
+    color: #212121;
+    font-weight: bold;
+}
+ .about-left p{
+    color: rgb(117, 117, 117);
+    line-height: 1.7;
+}
+.about-left .statue{
+    color: rgb(117, 117, 117);
+}
+.about-left .statue ul{
+    list-style: none;
+   
+}
+ .about-left .statue ul li{
+    display: inline-block;
+}

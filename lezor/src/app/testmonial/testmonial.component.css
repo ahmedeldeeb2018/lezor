@@ -1,0 +1,21 @@
+.test i
+{
+    font-size: 80px;
+    color: #7CB342;
+}
+.test h4
+{
+    color: #7CB342;
+}
+.test h2 ,h5
+{
+    color: white;
+}
+.test p{
+    margin-top: 50px;
+    text-align: center;
+    margin-bottom: 30px;
+    color:white;
+}
+
+

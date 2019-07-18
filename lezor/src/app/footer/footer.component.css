@@ -1,0 +1,29 @@
+.fotter{
+    background-color: #212121;
+}
+.fotter .lg-sl {
+    text-align: center;
+}
+.fotter .lg-sl img{
+    width: 150px;
+}
+.fotter .lg-sl ul{
+    list-style: none;
+}
+
+.fotter .lg-sl ul  li {
+    display: inline-block;
+    font-size: 20px;
+    padding: 5px;
+    margin-right: 5px;
+    color: #eee;
+   
+}
+.fotter .lg-sl ul li:hover{
+    color: #7cb342;
+}
+.fotter .top-fotter {
+    color: #eee; 
+    text-align: center;
+    border-top: 1px solid rgba(117,117,117,.2)
+}

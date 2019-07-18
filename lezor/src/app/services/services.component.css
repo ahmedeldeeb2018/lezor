@@ -1,0 +1,43 @@
+.service{
+    background-color: #F5F5F5;
+    padding-bottom: 65px;
+    
+}
+service  p{
+    line-height: 25px;
+    color: #939393;
+}
+.service .me-hobbis{
+    background-color: white;
+    border: 1px solid #eee;
+    border-radius: 5px;
+}
+.service .me-hobbis {
+    text-align: center;
+    cursor: pointer;
+}
+.service .me-hobbis  span{
+    color:#7CB342;
+    font-size: 40px;
+
+}
+.service .me-hobbis p{
+    color: #939393;
+}
+.number
+{
+  background-color:  rgba(33,33,33,.8);
+}
+.number  span{
+    color: #7CB342;
+    font-size: 45px;
+}
+.number h2{
+    color: #7CB342;
+
+}
+.number  p{
+    color: #eee;
+    letter-spacing: 2px;
+    margin-top: -5px;
+}

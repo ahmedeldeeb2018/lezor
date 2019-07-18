@@ -1,0 +1,52 @@
+.contact p{
+    margin-top: 30px;
+    line-height: 25px;
+    color: #939393;
+}
+.contact  input[type=text],.contact  input[type=email],.contact  input[type=email]{
+    
+    background-color: #F5F5F5;
+   
+}
+.contact textarea{
+    background-color: #F5F5F5;
+}
+.contact .contact-me button{
+    padding: 10px 39px;
+    border-radius: 10px;
+    border: 1px solid #eee;
+    color: #FFFFFF;
+    cursor: pointer;
+    letter-spacing: 1.4px;
+}
+ .address{
+    background-color: #212121;
+    border-radius: 5px 5px 0px 0px;
+}
+.address .my-add
+{
+    display: inline-block;
+    border-left: 1px solid #eee;
+}
+.address span{
+    color: #7CB342;
+    font-size: 30px;
+}
+ .address h2{
+    color: #eee;
+    font-size: 15px;
+    letter-spacing: 1.2px;
+
+}
+.address p{
+    color: #eee;
+    letter-spacing: .16px;
+    font-size: 15px;
+}
+.address .one{
+    border:none;
+}
+.contact  .rool{
+    background-color:#7CB342;
+    border-radius: 5px 5px 0px 0px;
+}
